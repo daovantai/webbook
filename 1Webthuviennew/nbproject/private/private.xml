@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/deletepm.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/contact.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/quanlisachDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/DAOPhieumuon.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/editbook.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/Lienhe.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Model/Book.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/servletDK.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/Dangnhap.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/quanliphieumuon.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/quanlisach.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/editservlet.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/quanlidocgia.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/index.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/styles/thongtinsach.css</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/test.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/quanliphieumuon.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/registerDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/checkout.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/Dangki.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/updateedit.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Model/Login.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/thuthu.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/updatedelete.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/deleteuser.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/chitietsachDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Model/User.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/cart.html</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/sendmail.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/quanlisachthuthu.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/style.css</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/quanlidocgiaDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/styles/main.css</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/servletDN.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/CRUDDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/XemDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/deleteservlet.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/chitietsachservlet.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/DAO/loginDAO.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/thuvien.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/viewdelete.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/muonservlet.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Model/phieumuon.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/addbookservlet.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/quanlidocgia.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/addbook.jsp</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/src/java/Controller/thuvienservlet.java</file>
+            <file>file:/C:/Users/VAN%20TAI/Documents/1Webthuviennew/web/chitietsach.jsp</file>
+        </group>
+    </open-files>
+</project-private>
